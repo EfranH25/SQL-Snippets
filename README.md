@@ -16,16 +16,16 @@
 
 * [SQLZoo](#SQLZoo)
 * [HackerRank](#HackerRank)
-* [LearnSQL](#LearnSQL)
+* [LearnSQL_CTE](#LearnSQL_CTE)
 
 <!-- SQLZoo -->
 ## SQLZoo
-Folder: 1 - SQLZoo
+SQLZoo is a great introductory website where you I learned the various fundamental functions such as select statements, subqueries, math functions, and joins.
 
 <!-- HackerRank -->
 ## HackerRank
-Folder: 2 - HackerRank SQL Challenges
+HackerRank has many different SQL problems to solve. The name of each SQL file in this folder corresponds to its respective HackerRank question.
 
 <!-- LearnSQL -->
-## LearnSQL
-Folder: 3 - LearnSQL.com 
+## LearnSQL_CTE
+LearnSQL.com offers courses on many different aspects of SQL. I went through its advanced recursive queries course. This folder contains my answer to many of its assignments.
