@@ -4,7 +4,9 @@
 <br />
 <p align="center">
   <h3 align="center">SQL Snippets</h3>
-
+  <p align="center">
+    <img width="460" height="300" src="https://github.com/EfranH25/SQL-Snippets/blob/main/Logo.png">
+</p>
   <p align="center">
     This repo contains SQL code from websites that offer SQL challenges. Each folder is for a different website and contains SQL code to various problems offered by that website.
   </p>
