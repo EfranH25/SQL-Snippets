@@ -13,13 +13,13 @@
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-* [World_Peace_Data_Base_Project](World_Peace_Data_Base_Project)
+* [World_Peace_Database_Project](#World_Peace_Database_Project)
 * [SQL_CTE](#SQL_CTE)
 * [HackerRank](#HackerRank)
 * [SQLZoo](#SQLZoo)
 
-<!-- World_Peace_Data_Base_Project -->
-## World_Peace_Data_Base_Project
+<!-- World_Peace_Database_Project -->
+## World_Peace_Database_Project
 A small merchandise data base contained various customer, location, and product information. I used this small data base as a test bin to create varoius SQL functions, procedures, triggers, CTE's, and Recursive CTE's. 
 
 <!-- SQL_CTE -->
