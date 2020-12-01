@@ -13,19 +13,27 @@
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-
-* [SQLZoo](#SQLZoo)
+* [World_Peace_Database_Project](#World_Peace_Database_Project)
+* [SQL_CTE](#SQL_CTE)
 * [HackerRank](#HackerRank)
-* [LearnSQL_CTE](#LearnSQL_CTE)
+* [SQLZoo](#SQLZoo)
+
+<!-- World_Peace_Database_Project -->
+## World_Peace_Database_Project
+A small merchandise data base contained various customer, location, and product information. I used this small data base as a test bin to create varoius SQL functions, procedures, triggers, CTE's, and Recursive CTE's. 
+
+<!-- SQL_CTE -->
+## SQL_CTE
+LearnSQL.com offers courses on many different aspects of SQL. I went through its advanced recursive queries course. This folder contains my answer to many of its assignments.
+
+<!-- HackerRank -->
+## HackerRank
+HackerRank has many different SQL problems to solve, here are my answers to problems I've solved. The name of each SQL file in this folder corresponds to its respective HackerRank question.
 
 <!-- SQLZoo -->
 ## SQLZoo
 SQLZoo is a great introductory website where you I learned the various fundamental functions such as select statements, subqueries, math functions, and joins.
 
-<!-- HackerRank -->
-## HackerRank
-HackerRank has many different SQL problems to solve. The name of each SQL file in this folder corresponds to its respective HackerRank question.
 
-<!-- LearnSQL -->
-## LearnSQL_CTE
-LearnSQL.com offers courses on many different aspects of SQL. I went through its advanced recursive queries course. This folder contains my answer to many of its assignments.
+
+
